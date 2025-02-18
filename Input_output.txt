@@ -1,0 +1,52 @@
+1- Output of Product
+
+Product Details:
+ID: 101
+Name: Laptop
+Price: 75000.0
+
+
+2- Output of library Management System
+
+Enter details for Fiction book:
+Title: Harry Potter
+Author: J.K. Rowling
+Price: 5000
+
+Enter details for Non-Fiction book:
+Title: hello world
+Author: me
+Price: 500
+
+Fiction Book Details:
+Title: Harry Potter
+Author: J.K. Rowling
+Price: 5000.0
+
+Non-Fiction Book Details:
+Title: hello world
+Author: me
+Price: 500.0
+
+
+3- Output of StudentInfoSystem
+
+Add Student:
+Name: kuldeep
+Age: 21
+Roll Number: 421
+
+Add Teacher:
+Name: Vivek Singh
+Age: 25
+Subject: JAVA
+
+Student Details:
+Name: kuldeep
+Age: 21
+Roll Number: 421
+
+Teacher Details:
+Name: Vivek Singh
+Age: 25
+Subject: JAVA
